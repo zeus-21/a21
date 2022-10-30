@@ -6,15 +6,15 @@
     "pop_body": "You have won",
     "pop_step": "To get your gift, you must first subscribe to our offer by click the Claim Gift button, then we will contact you after you subscribe to the offer to receive your gift",
     "pop_button": "Claim Your Gift",
-    "htr": "Try your luck A Press the spin now button to start"
+    "htr": "Try your luck \\a Press the spin now button to start"
   },
   "ar": {
     "page_title": "عجلة الحظ",
     "main_button": "ابدا الان",
-    "pop_header": "مبروك",
+    "pop_header": "مبروووك",
     "pop_body": "لقد ربحت",
     "pop_step": "للحصول على هديتك ، يجب عليك أولاً الاشتراك في عرضنا عن طريق النقر فوق الزر 'المطالبة بالهدية' ، ثم سنتواصل معك بعد الاشتراك في العرض لاستلام هديتك.",
     "pop_button": "المطالبة بالهدية",
-    "htr": "جرب حظ اضغط علي زر 'ابدا الان' للبدء"
+    "htr": "جرب حظك الان \\a اضغط علي زر 'ابدا الان' للبدء"
   }
 }
